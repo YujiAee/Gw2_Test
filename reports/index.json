@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-150552-ro2f",
+      "title": "Tiny Zud",
+      "commanders": [
+        "Tiny Zud"
+      ],
+      "dateStart": "2026-06-14T13:05:52.000Z",
+      "dateEnd": "2026-06-14T13:44:06.000Z",
+      "dateLabel": "14.6.2026, 15:05:52 - 14.6.2026, 15:44:06",
+      "url": "https://YujiAee.github.io/Gw2_Test/?report=20260614-150552-ro2f",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260614-000014-nsb4",
       "title": "Cpt Carrachoo, Tiny Zud",
       "commanders": [

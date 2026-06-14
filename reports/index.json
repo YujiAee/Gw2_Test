@@ -1,0 +1,41 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260614-000014-nsb4",
+      "title": "Cpt Carrachoo, Tiny Zud",
+      "commanders": [
+        "Cpt Carrachoo",
+        "Tiny Zud"
+      ],
+      "dateStart": "2026-06-13T22:00:14.000Z",
+      "dateEnd": "2026-06-14T13:44:06.000Z",
+      "dateLabel": "14.6.2026, 00:00:14 - 14.6.2026, 15:44:06",
+      "url": "https://YujiAee.github.io/Gw2_Test/?report=20260614-000014-nsb4",
+      "summary": {
+        "borderlandsPct": 0.5714285714285714,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 49
+      }
+    }
+  ]
+}
